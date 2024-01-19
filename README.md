@@ -4,5 +4,5 @@
 
 
 <h3> Languages: </h3>
-React.js
+React.js <br>
 Typescript.js
