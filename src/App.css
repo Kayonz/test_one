@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body{
+  background-color: #66666e;
+  font-family: 'Neue Haas Grotesk';
+  background-image: ();
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.links_on_right{
+  margin-top: 1em;
+  font-size: 80px;
+  margin-right: 1em;
+  font-weight: bold;
+}
+#tour_1{
+  padding: 10px;
+  display: flex;
+  justify-content: end;
+}
+#shop_1{
+  padding: 10px;
+  display: flex;
+  justify-content: end;
+}
+#music_1{
+  padding: 10px;
+  display: flex;
+  justify-content: end;
+}
+
+a:hover {
+  transition: transform 0.5s ease-in-out;
+}
+
+a:hover:hover {
+  transform: scale(1.1);
+}
