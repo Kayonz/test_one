@@ -1,4 +1,4 @@
-## This project is a honor of my favorite artist.
+## This site is to honor my favorite artist.
 
 <p> Link of website artist: https://iameden.eu </p>
 
